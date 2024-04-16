@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Riddhi Mhatre!
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills.
 
-<!--
-**Riddhimhatre/Riddhimhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ You can contact me at riddhimhatre94@gmail.com
 
-Here are some ideas to get you started:
+Skills Overview
+Programming Languages: Java, Python, Kotlin, TypeScript, JavaScript, HTML and CSS, C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database & Cloud: RDBMS (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), AWS
+
+Libraries and Frameworks: Ionic, React Native, React.js, Node.js, Next.js, GraphQL, RESTful APIs, JSON, Spring Boot
+
+Tools & Software: Git, GitHub Actions, Firebase, Visual Studio, Oracle VM, VirtualBox, Eclipse, Android Studio, Visio, Jenkins, Jira
+
+Methodologies: Agile (Scrum, Kanban), TDD, FDD
+
+Looking for Opportunities
+I'm currently looking for roles as a Java developer, front-end developer, and Java software engineer.
+
+Socials
+LinkedIn: Riddhi Mhatre
